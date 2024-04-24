@@ -15,5 +15,4 @@
 3. Create the report, utilizing slicers for easy navigation. For example, use the slicer to filter information based on Patient ID, enabling users to access related patient data effortlessly.
 
 By following these steps, users can efficiently visualize and analyze hospital data using the Power BI dashboard."
-
-https://github.com/19purva/Papollo-Hospital-Dashboard/issues/1#issue-2260397066
+![power bi hospital report](https://github.com/19purva/Papollo-Hospital-Dashboard/assets/135506440/e8dda2ba-0ddc-4f9f-89ab-a9053df5270c)
